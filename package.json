@@ -1,0 +1,12 @@
+{
+  "name": "kryon-roblox",
+  "version": "1.0.0",
+  "description": "API Roblox <-> Minecraft pour KRYON SMP",
+  "main": "api/players.js",
+  "scripts": {
+    "start": "node api/players.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
